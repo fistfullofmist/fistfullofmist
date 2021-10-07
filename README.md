@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @fistfullofmist
+- 👋 Hi, I’m Feranaa Jijicawna
+- 
 - 👀 I’m interested in poetry, dancing, coding, mathematics
 - 🌱 I’m currently learning Python programming. I am a Commerce undergrad.
 - 💞️ I’m looking to collaborate on 
